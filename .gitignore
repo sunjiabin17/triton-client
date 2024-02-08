@@ -3,7 +3,7 @@
 src/.vscode
 src/c++/.vscode
 src/python/.vscode
-
+src/java/target/
 #C++
 /build
 *.so
